@@ -1,4 +1,4 @@
-# 🍽️ Recipe Finder App
+# 🍽️ Recipe Finder Web App
 
 The **Recipe Finder** is a responsive web application built with ReactJS and Tailwind CSS that allows users to search for recipes and retrieve preparation instructions using the [Spoonacular API](https://spoonacular.com/food-api). Users can enter the name of a dish and instantly get ingredients, cooking steps, and more.
 
