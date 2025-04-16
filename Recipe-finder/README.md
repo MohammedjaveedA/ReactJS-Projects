@@ -21,8 +21,6 @@ The **Recipe Finder** is a responsive web application built with ReactJS and Tai
 
 ---
 
----
-
 ## ⚙️ Getting Started
 
 ### Prerequisites
